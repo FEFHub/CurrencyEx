@@ -1,4 +1,3 @@
-allow:<http-methods>
 $.getJSON("http://api.exchangeratesapi.io/v1/latest?access_key=760edb47c69471caf3e1acf30445d787",
 function(data){
   console.log(data);
