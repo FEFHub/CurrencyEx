@@ -1,4 +1,4 @@
-body{
+body {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,13 +8,15 @@ body{
   font-size: 70%;
   background-image: url('https://source.unsplash.com/1600x900/?Currency');
 }
-table{
+
+table {
   align-items: center;
   align-content: center;
   border-spacing: 70px 2rem;
   color: White;
-  background-color: rgba(95,81,75,.5);
+  background-color: rgba(95, 81, 75, .5);
 }
+
 .search {
   overflow: hidden;
 }
@@ -33,7 +35,8 @@ table{
   border: none;
   font-size: 12px;
 }
-.butt{
+
+.butt {
   color: #55c7dd;
   background-color: #f49fdd;
   opacity: .8;
@@ -42,10 +45,12 @@ table{
   margin: 0;
   padding: 10;
 }
-.dis{
+
+.dis {
   font-size: 16px;
 }
-.inp{
+
+.inp {
   color: grey;
   border-radius: 2rem;
   border: none;
