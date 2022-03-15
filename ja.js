@@ -22,4 +22,4 @@ getButton.addEventListener("click", e =>{
     }
     console.clear(d);
   }
-  });
+});
